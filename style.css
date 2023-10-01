@@ -42,11 +42,11 @@ animation: cactus 2s infinite linear;
     }
 }
 .jump{
-animation: jump 0.3s  ease-in-out alternate;
+animation: jump 0.2s  ease-in-out alternate;
 }
 @keyframes jump{
     0%{
-        top:140px;
+        top:130px;
     }
     30%{
         top: 130px;
@@ -58,6 +58,6 @@ animation: jump 0.3s  ease-in-out alternate;
         top: 130px;
     }
     100%{
-        top:140px;
+        top:130px;
     }
 }
