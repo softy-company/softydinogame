@@ -12,6 +12,17 @@
     position: relative;
     top: 150px;
 }
+.wrapper button{
+    width: 70px;
+    height: 30px;
+    background: #000;
+    margin-top: 100px;
+    top: 0;
+    margin-left: 900px;
+    color:white;
+    border:none;
+    border-radius: 20px;
+}
 #cactus{
     width: 20px;
     height: 40px;
@@ -20,7 +31,7 @@
     position: relative;
     top: 110px;
 left:580px;
-animation: cactus 1.3s infinite linear;
+animation: cactus 2s infinite linear;
 }
 @keyframes cactus{
     0%{
